@@ -1,0 +1,14 @@
+div {
+  text-align: center;
+  margin-top: 40vh;
+}
+
+h1 {
+  text-transform: uppercase;
+  color: coral;
+  text-decoration: underline black;
+}
+
+p {
+  font-family: 'Times New Roman', Times, serif;
+}
